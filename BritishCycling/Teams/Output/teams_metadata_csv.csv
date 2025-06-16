@@ -1,8 +1,8 @@
 year,gender,BC_team_classification,bc_team_id, team_name, UCI_team_code, UCI_team_id
 2025,Womens,UCI Conti,,DAS-Hutchinson,DAS,20468
 2025,Womens,UCI Conti,,CJ O'Shea,AWO,20418
-2025,Womens,UCI Conti,Handsling Alba Development Road Team,,ART,20411
-2025,Womens,UCI Conti,Hess Cycling Team,,HES,20708
+2025,Womens,UCI Conti,,Handsling Alba Development Road Team,ART,20411
+2025,Womens,UCI Conti,,Hess Cycling Team,HES,20708
 2025,Womens,UCI Conti,,Smurfit Westrock Cycling Team,FLR,20437
 2025,Mens,BC Elite Development Team,,Wheelbase/Cabtech/Castelli,,
 2025,Mens,BC Elite Development Team,,BCC Race Team,,
@@ -12,3 +12,7 @@ year,gender,BC_team_classification,bc_team_id, team_name, UCI_team_code, UCI_tea
 2025,Mens,BC Elite Development Team,,Team PB Performance,,
 2025,Mens,BC Elite Development Team,,Spirit Racing Team,,
 2025,Mens,BC Elite Development Team,,Muc-Off - SRCT-Storck,,
+2025,Womens,BC Elite Development Team,,FTP Racing,,
+2025,Womens,BC Elite Development Team,,Loughborough Lightning,,
+2025,Womens,BC Elite Development Team,,Brother UK-OnForm,,
+2025,Womens,BC Elite Development Team,,Team Boompods,,
