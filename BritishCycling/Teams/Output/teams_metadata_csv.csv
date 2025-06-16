@@ -1,6 +1,6 @@
-year,gender,team_name,bc_team_id,BC_team_classification, UCI_team_code, UCI_team_id
-2025,Womens,DAS-Hutchinson,,UCI Conti,DAS,20468
-2025,Womens,CJ O'Shea,,UCI Conti,AWO,20418
-2025,Womens,Handsling Alba Development Road Team,, UCI Conti,ART,20411
-2025,Womens,Hess Cycling Team,, UCI Conti,HES,20708
-2025,Womens,Smurfit Westrock Cycling Team,, UCI Conti,FLR,20437
+year,gender,BC_team_classification,bc_team_id, team_name, UCI_team_code, UCI_team_id
+2025,Womens,UCI Conti,,DAS-Hutchinson,DAS,20468
+2025,Womens,UCI Conti,,CJ O'Shea,AWO,20418
+2025,Womens,UCI Conti,Handsling Alba Development Road Team,,ART,20411
+2025,Womens,UCI Conti,Hess Cycling Team,,HES,20708
+2025,Womens,UCI Conti,,Smurfit Westrock Cycling Team,FLR,20437
