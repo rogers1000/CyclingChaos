@@ -11,5 +11,6 @@ All the data is stored within the British Cycling Folder and is split into folde
 - Results
 - Teams
 - Riders
+- BC Points
 
 Each Folder is split into Outputs for easy CSV output find and code input.
