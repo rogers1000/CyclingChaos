@@ -14,7 +14,7 @@ import pandas as pd
 import numpy as np
 
 
-setwd = '/Users/zacrogers/Documents/cycling_chaos/python_code/'
+setwd = ### Your Working Directory 
 
 ### Setup headless Chrome (or not depending on if testing or not)
 options = Options()
