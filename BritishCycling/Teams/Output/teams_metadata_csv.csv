@@ -4,7 +4,6 @@ ZR_team_id,year,gender,BC_team_classification,bc_team_id, team_name, UCI_team_co
 3,2025,Womens,UCI Conti,,Handsling Alba Development Road Team,ART,20411
 4,2025,Womens,UCI Conti,,Hess Cycling Team,HES,20708
 5,2025,Womens,UCI Conti,,Smurfit Westrock Cycling Team,FLR,20437
-
 10,2025,Mens,BC Elite Development Team,,Wheelbase/Cabtech/Castelli,,
 11,2025,Mens,BC Elite Development Team,,BCC Race Team,,
 12,2025,Mens,BC Elite Development Team,,360 cycling,,
@@ -13,12 +12,10 @@ ZR_team_id,year,gender,BC_team_classification,bc_team_id, team_name, UCI_team_co
 15,2025,Mens,BC Elite Development Team,,Team PB Performance,,
 16,2025,Mens,BC Elite Development Team,,Spirit Racing Team,,
 17,2025,Mens,BC Elite Development Team,,Muc-Off - SRCT-Storck,,
-
 6,2025,Womens,BC Elite Development Team,,FTP Racing,,
 7,2025,Womens,BC Elite Development Team,,Loughborough Lightning,,
 8,2025,Womens,BC Elite Development Team,,Brother UK-OnForm,,
 9,2025,Womens,BC Elite Development Team,,Team Boompods,,
-
 1,2024,Womens,UCI Conti,,DAS-Hutchinson-Brother UK,DAS,20154
 2,2024,Womens,UCI Conti,,Dolticini O'Shea,AWO,19561
 3,2024,Womens,UCI Conti,,Alba Development Road Team,ART,19566
@@ -29,35 +26,69 @@ ZR_team_id,year,gender,BC_team_classification,bc_team_id, team_name, UCI_team_co
 7,2024,Womens,BC Elite Development Team,,Loughborough Lightning,,
 8,2024,Womens,BC Elite Development Team,,Brother UK-OnForm,,
 9,2024,Womens,BC Elite Development Team,,Team Boompods,,
-
 11,2024,Mens,UCI Conti,,Saint Piran,SPC,20052
 12,2024,Mens,UCI Conti,,Trinity Racing,TRI,20055
-
-10,2025,Mens,BC Elite Development Team,,Wheelbase Cabtech Castelli,,
-11,2025,Mens,BC Elite Development Team,,HUUB BCC Race Team,,
-13,2025,Mens,BC Elite Development Team,,Cycling Sheffield,,
-14,2025,Mens,BC Elite Development Team,,Richardsons Trek Das,,
-15,2025,Mens,BC Elite Development Team,,Team PB Performance,,
-16,2025,Mens,BC Elite Development Team,,Spirit TBW Stuart Hall Cycling,,
-17,2025,Mens,BC Elite Development Team,,Thriva-SRCT,,
-20,2025,Mens,BC Elite Development Team,,PROJECT1,,
-
+10,2024,Mens,BC Elite Development Team,,Wheelbase Cabtech Castelli,,
+11,2024,Mens,BC Elite Development Team,,HUUB BCC Race Team,,
+13,2024,Mens,BC Elite Development Team,,Cycling Sheffield,,
+14,2024,Mens,BC Elite Development Team,,Richardsons Trek Das,,
+15,2024,Mens,BC Elite Development Team,,Team PB Performance,,
+16,2024,Mens,BC Elite Development Team,,Spirit TBW Stuart Hall Cycling,,
+17,2024,Mens,BC Elite Development Team,,Thriva - SRCT,,
+20,2024,Mens,BC Elite Development Team,,PROJECT1,,
 1,2023,Womens,UCI Conti,,DAS-Handsling,DAS,18533
 2,2023,Womens,UCI Conti,,AWOL O'Shea,AWO,18534
 3,2023,Womens,BC Elite Development Team,,Alba Development Road Team,,
 18,2023,Womens,UCI Conti,,Lifeplus Wahoo,DRP,18535
 7,2023,Womens,BC Elite Development Team,,Loughborough Lightning,,
-8,2023,Womens,BC Elite Development Team,,Brother UK-OnForm,,
+8,2023,Womens,BC Elite Development Team,,Brother UK - OnForm,,
 9,2023,Womens,BC Elite Development Team,,Team Boompods,,
-
 11,2023,Mens,UCI Conti,,Saint Piran,SPC,18577
 12,2023,Mens,UCI Conti,,Trinity Racing,TRI,18421
-
-10,2025,Mens,BC Elite Development Team,,Wheelbase Cabtech Castelli,,
-11,2025,Mens,BC Elite Development Team,,HUUB BCC Race Team,,
-13,2025,Mens,BC Elite Development Team,,Cycling Sheffield,,
-14,2025,Mens,BC Elite Development Team,,Richardsons Trek Das,,
-15,2025,Mens,BC Elite Development Team,,Team PB Performance,,
-16,2025,Mens,BC Elite Development Team,,Spirit TBW Stuart Hall Cycling,,
-17,2025,Mens,BC Elite Development Team,,Thriva-SRCT,,
-20,2025,Mens,BC Elite Development Team,,PROJECT1,,
+13,2023,Mens,BC Elite Development Team,,Cycling Sheffield,,
+14,2023,Mens,BC Elite Development Team,,Richardsons Trek Das,,
+15,2023,Mens,BC Elite Development Team,,Team PB Performance,,
+16,2023,Mens,BC Elite Development Team,,Embark Spirit BSS,,
+17,2023,Mens,BC Elite Development Team,,ROKiT - SRCT,,
+20,2023,Mens,BC Elite Development Team,,Wales Racing Academy,,
+1,2022,Womens,UCI Conti,,Cams-Basso,CAT,17254
+2,2022,Womens,UCI Conti,,AWOL O'Shea,AWO,17244
+3,2022,Womens,BC Elite Development Team,,Alba Development Road Team,,
+18,2022,Womens,UCI Conti,,Le Col Wahoo,DRP,17246
+7,2022,Womens,BC Elite Development Team,,Loughborough Lightning - TRG,,
+8,2022,Womens,BC Elite Development Team,,Brother UK - Orientation Marketing,,
+9,2022,Womens,BC Elite Development Team,,Team Boompods,,
+19,2022,Womens,BC Elite Development Team,,Saint Piran WRT,,
+21,2022,Womens,BC Elite Development Team,,Team LDN - Brother UK,,
+11,2022,Mens,UCI Conti,,Saint Piran,SPC,17319
+12,2022,Mens,UCI Conti,,Trinity Racing,TRI,17592
+22,2022,Mens,UCI Conti,,Ribble Weldtite Pro Cycling,RWC,17590
+23,2022,Mens,UCI Conti,,Wiv Sungod,RDW,17318
+13,2022,Mens,BC Elite Development Team,,Cycling Sheffield,,
+14,2022,Mens,BC Elite Development Team,,Richardsons Trek Das,,
+15,2022,Mens,BC Elite Development Team,,Team PB Performance,,
+16,2022,Mens,BC Elite Development Team,,Spirit BSS,,
+17,2022,Mens,BC Elite Development Team,,SRCT Muc-Off,,
+20,2022,Mens,BC Elite Development Team,,Wales Racing Academy,,
+24,2022,Mens,BC Elite Development Team,,Dolan Ellesse Race Team,,
+25,2022,Mens,BC Elite Development Team,,Embark-Bikestrong,,
+1,2021,Womens,UCI Conti,,Cams-Basso,CAT,15878
+2,2021,Womens,UCI Conti,,AWOL O'Shea,AWO,15404
+18,2021,Womens,UCI Conti,,DROPS - Le Col Supported by Tempur,DRP,15429
+7,2021,Womens,BC Elite Development Team,,Loughborough Lightning - TRG,,
+8,2021,Womens,BC Elite Development Team,,Brother UK Cycle Team OnForm,,
+9,2021,Womens,BC Elite Development Team,,Team Boompods,,
+21,2021,Womens,BC Elite Development Team,,Team LDN - Brother UK,,
+26,2021,Womens,BC Elite Development Team,,Bianchi Dama Cycling Team,,
+11,2021,Mens,UCI Conti,,Saint Piran,SPC,15434
+12,2021,Mens,UCI Conti,,Trinity Racing,TRI,15317
+22,2021,Mens,UCI Conti,,Ribble Weldtite Pro Cycling,RWC,15318
+23,2021,Mens,UCI Conti,,Canyon DHB Sungod,DHB,15316
+27,2021,Mens,UCI Conti,,Swiftcarbon Pro Cycling,SCB,15319
+13,2021,Mens,BC Elite Development Team,,Cycling Sheffield,,
+14,2021,Mens,BC Elite Development Team,,Richardsons Trek,,
+15,2021,Mens,BC Elite Development Team,,Team PB Performance,,
+16,2021,Mens,BC Elite Development Team,,Spirit Bontrager BSS Rotor,,
+20,2021,Mens,BC Elite Development Team,,Wales Racing Academy,,
+25,2021,Mens,BC Elite Development Team,,Bikestrong - KTM,,
+28,2021,Mens,BC Elite Development Team,,Crimson Orientation Marketing,,
