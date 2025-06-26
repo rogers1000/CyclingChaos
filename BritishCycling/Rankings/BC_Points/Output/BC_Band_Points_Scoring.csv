@@ -1,76 +1,131 @@
-Type,Band,Position,BC_Points
-Road,1,1,100
-Road,1,2,85
-Road,1,3,75
-Road,1,4,66
-Road,1,5,58
-Road,1,6,51
-Road,1,7,45
-Road,1,8,39
-Road,1,9,34
-Road,1,10,29
-Road,1,11,25
-Road,1,12,21
-Road,1,13,18
-Road,1,14,15
-Road,1,15,12
-Road,1,16,10
-Road,1,17,8
-Road,1,18,6
-Road,1,19,4
-Road,1,20,2
-Road,2,1,60
-Road,2,2,52
-Road,2,3,45
-Road,2,4,40
-Road,2,5,35
-Road,2,6,31
-Road,2,7,27
-Road,2,8,23
-Road,2,9,20
-Road,2,10,17
-Road,2,11,15
-Road,2,12,13
-Road,2,13,11
-Road,2,14,9
-Road,2,15,7
-Road,2,16,6
-Road,2,17,5
-Road,2,18,3
-Road,2,19,2
-Road,2,20,1
-Road,3,1,30
-Road,3,2,25
-Road,3,3,21
-Road,3,4,17
-Road,3,5,14
-Road,3,6,12
-Road,3,7,10
-Road,3,8,8
-Road,3,9,7
-Road,3,10,6
-Road,3,11,5
-Road,3,12,4
-Road,3,13,3
-Road,3,14,2
-Road,3,15,1
-Road,4,1,15
-Road,4,2,12
-Road,4,3,10
-Road,4,4,8
-Road,4,5,6
-Road,4,6,5
-Road,4,7,4
-Road,4,8,3
-Road,4,9,2
-Road,4,10,1
-Road,5,1,10
-Road,5,2,8
-Road,5,3,7
-Road,5,4,6
-Road,5,5,5
-Road,5,6,4
-Road,5,7,3
-Road,5,8,2
-Road,5,9,1
-Road,5,10,1
+Type,Band,Race_Classification_Type,Position,BC_Points
+Road,1,Nat A Road,1,100
+Road,1,Nat A Road,2,85
+Road,1,Nat A Road,3,75
+Road,1,Nat A Road,4,66
+Road,1,Nat A Road,5,58
+Road,1,Nat A Road,6,51
+Road,1,Nat A Road,7,45
+Road,1,Nat A Road,8,39
+Road,1,Nat A Road,9,34
+Road,1,Nat A Road,10,29
+Road,1,Nat A Road,11,25
+Road,1,Nat A Road,12,21
+Road,1,Nat A Road,13,18
+Road,1,Nat A Road,14,15
+Road,1,Nat A Road,15,12
+Road,1,Nat A Road,16,10
+Road,1,Nat A Road,17,8
+Road,1,Nat A Road,18,6
+Road,1,Nat A Road,19,4
+Road,1,Nat A Road,20,2
+Road,2,Nat B Road,1,60
+Road,2,Nat B Road,2,52
+Road,2,Nat B Road,3,45
+Road,2,Nat B Road,4,40
+Road,2,Nat B Road,5,35
+Road,2,Nat B Road,6,31
+Road,2,Nat B Road,7,27
+Road,2,Nat B Road,8,23
+Road,2,Nat B Road,9,20
+Road,2,Nat B Road,10,17
+Road,2,Nat B Road,11,15
+Road,2,Nat B Road,12,13
+Road,2,Nat B Road,13,11
+Road,2,Nat B Road,14,9
+Road,2,Nat B Road,15,7
+Road,2,Nat B Road,16,6
+Road,2,Nat B Road,17,5
+Road,2,Nat B Road,18,3
+Road,2,Nat B Road,19,2
+Road,2,Nat B Road,20,1
+Road,2,Nat A Circuit,1,60
+Road,2,Nat A Circuit,2,52
+Road,2,Nat A Circuit,3,45
+Road,2,Nat A Circuit,4,40
+Road,2,Nat A Circuit,5,35
+Road,2,Nat A Circuit,6,31
+Road,2,Nat A Circuit,7,27
+Road,2,Nat A Circuit,8,23
+Road,2,Nat A Circuit,9,20
+Road,2,Nat A Circuit,10,17
+Road,2,Nat A Circuit,11,15
+Road,2,Nat A Circuit,12,13
+Road,2,Nat A Circuit,13,11
+Road,2,Nat A Circuit,14,9
+Road,2,Nat A Circuit,15,7
+Road,2,Nat A Circuit,16,6
+Road,2,Nat A Circuit,17,5
+Road,2,Nat A Circuit,18,3
+Road,2,Nat A Circuit,19,2
+Road,2,Nat A Circuit,20,1
+Road,3,Reg A Road,1,30
+Road,3,Reg A Road,2,25
+Road,3,Reg A Road,3,21
+Road,3,Reg A Road,4,17
+Road,3,Reg A Road,5,14
+Road,3,Reg A Road,6,12
+Road,3,Reg A Road,7,10
+Road,3,Reg A Road,8,8
+Road,3,Reg A Road,9,7
+Road,3,Reg A Road,10,6
+Road,3,Reg A Road,11,5
+Road,3,Reg A Road,12,4
+Road,3,Reg A Road,13,3
+Road,3,Reg A Road,14,2
+Road,3,Reg A Road,15,1
+Road,3,Nat B Circuit,1,30
+Road,3,Nat B Circuit,2,25
+Road,3,Nat B Circuit,3,21
+Road,3,Nat B Circuit,4,17
+Road,3,Nat B Circuit,5,14
+Road,3,Nat B Circuit,6,12
+Road,3,Nat B Circuit,7,10
+Road,3,Nat B Circuit,8,8
+Road,3,Nat B Circuit,9,7
+Road,3,Nat B Circuit,10,6
+Road,3,Nat B Circuit,11,5
+Road,3,Nat B Circuit,12,4
+Road,3,Nat B Circuit,13,3
+Road,3,Nat B Circuit,14,2
+Road,3,Nat B Circuit,15,1
+Road,4,Reg B Road,1,15
+Road,4,Reg B Road,2,12
+Road,4,Reg B Road,3,10
+Road,4,Reg B Road,4,8
+Road,4,Reg B Road,5,6
+Road,4,Reg B Road,6,5
+Road,4,Reg B Road,7,4
+Road,4,Reg B Road,8,3
+Road,4,Reg B Road,9,2
+Road,4,Reg B Road,10,1
+Road,4,Reg A Circuit,1,15
+Road,4,Reg A Circuit,2,12
+Road,4,Reg A Circuit,3,10
+Road,4,Reg A Circuit,4,8
+Road,4,Reg A Circuit,5,6
+Road,4,Reg A Circuit,6,5
+Road,4,Reg A Circuit,7,4
+Road,4,Reg A Circuit,8,3
+Road,4,Reg A Circuit,9,2
+Road,4,Reg A Circuit,10,1
+Road,5,Reg C+,1,10
+Road,5,Reg C+,2,8
+Road,5,Reg C+,3,7
+Road,5,Reg C+,4,6
+Road,5,Reg C+,5,5
+Road,5,Reg C+,6,4
+Road,5,Reg C+,7,3
+Road,5,Reg C+,8,2
+Road,5,Reg C+,9,1
+Road,5,Reg C+,10,1
+Road,5,Reg B Circuit,1,10
+Road,5,Reg B Circuit,2,8
+Road,5,Reg B Circuit,3,7
+Road,5,Reg B Circuit,4,6
+Road,5,Reg B Circuit,5,5
+Road,5,Reg B Circuit,6,4
+Road,5,Reg B Circuit,7,3
+Road,5,Reg B Circuit,8,2
+Road,5,Reg B Circuit,9,1
+Road,5,Reg B Circuit,10,1
